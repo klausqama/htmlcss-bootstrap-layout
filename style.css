@@ -1,0 +1,41 @@
+.colonna-1{
+    background-color: #f8f8fab7;
+}
+.colonna-2{
+    background-color: gray;
+    color: white;
+}
+.col-blu{
+    background-color: blue;
+    color: white;
+}
+.col-green{
+    background-color: green;
+    color: white;
+}
+.col-red{
+    background-color: red;
+    color: white;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.col-azure{
+    background-color: rgb(149, 140, 248);
+    color: white;
+}
+.col-yellow{
+    background-color: yellow;
+    color: white;
+}
+.col-darkgray{
+    background-color: rgb(25, 25, 25);
+    color: white;
+}
+.col-lightgray{
+    background-color: rgb(158, 157, 157);
+    color: black;
+}
+.pd-20{
+padding: 20px;
+}
