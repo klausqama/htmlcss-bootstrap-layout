@@ -1,4 +1,4 @@
-.colonna-1{
+/*.colonna-1{
     background-color: #f8f8fab7;
 }
 .colonna-2{
@@ -17,9 +17,7 @@
     background-color: red;
     color: white;
 }
-.mt-10{
-    margin-top: 10px;
-}
+
 .col-azure{
     background-color: rgb(149, 140, 248);
     color: white;
@@ -38,4 +36,7 @@
 }
 .pd-20{
 padding: 20px;
+}*/
+.mt-10{
+    margin-top: 10px;
 }
